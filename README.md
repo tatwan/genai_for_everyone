@@ -73,6 +73,22 @@ Showed how you can select different models and require web search
 
 #### 4. Perplexity AI (https://www.perplexity.ai)
 
+#### 5. Quillbot (https://quillbot.com)
+
+![image-20240814192254907](images/image-20240814192254907.png)
+
+----
+
+### AI Services Examples
+
+* Azure AI Vision Studio https://portal.vision.cognitive.azure.com/gallery/featured
+* Azure AI Language Studio https://language.cognitive.azure.com
+* Azure AI Speech Studio https://speech.azure.cn/portal
+* Azure AI Studio (GenAI) https://ai.azure.com
+* AWS Rekognition https://aws.amazon.com/rekognition/
+* AWS Comprehend https://aws.amazon.com/comprehend/
+* AWS Macie (PII) https://aws.amazon.com/macie/
+
 ---
 
 ## Other Resources 
@@ -84,4 +100,6 @@ Showed how you can select different models and require web search
 *  USA AI Compliance Act https://www.whitehouse.gov/ostp/ai-bill-of-rights/
 
   
+
+
 
