@@ -1,11 +1,11 @@
 # GenAI for Everyone Class
 
-* [Data Analytics and AI Landscape](data-analytics-and-ai-landscape)
-* [List of in Class Demos](list-of-in-class-demos)
-* [List of Conversational LLMs](list-of-conversational-llms )
-* [AI Services Eaxmples](ai-services-examples)
-* [Interactive Visual Explainers](interactive-visual-explainers)
-* [Other Resources](other-resources)
+* [Data Analytics and AI Landscape](#data-analytics-and-ai-landscape)
+* [List of in Class Demos](#list-of-in-class-demos)
+* [List of Conversational LLMs](#list-of-conversational-llms )
+* [AI Services Eaxmples](#ai-services-examples)
+* [Interactive Visual Explainers](#interactive-visual-explainers)
+* [Other Resources](#other-resources)
 
 ----
 
