@@ -1,8 +1,15 @@
 # GenAI for Everyone Class
 
-
+* [Data Analytics and AI Landscape](data-analytics-and-ai-landscape)
+* [List of in Class Demos](list-of-in-class-demos)
+* [List of Conversational LLMs](list-of-conversational-llms )
+* [AI Services Eaxmples](ai-services-examples)
+* [Interactive Visual Explainers](interactive-visual-explainers)
+* [Other Resources](other-resources)
 
 ----
+
+
 
 
 
@@ -55,7 +62,7 @@ Demonstrated how you can download a model and run it locally on your machine
 
 ---
 
-## List of Conversational LLMs similar to ChatGPT
+## List of Conversational LLMs
 
 #### 1. Google Gemini (https://gemini.google.com/app)
 
@@ -90,6 +97,19 @@ Showed how you can select different models and require web search
 * AWS Macie (PII) https://aws.amazon.com/macie/
 
 ---
+
+## Interactive Visual Explaineres
+
+| Resource                                                   | URL                                               | Desc                                                         |
+| ---------------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------------------ |
+| Tensorflow Playground                                      | https://playground.tensorflow.org/                | TensorFlow Playground is an interactive visualization tool for neural networks, |
+| CNN Explainer                                              | https://poloclub.github.io/cnn-explainer/         | CNN Explainer is an interactive visualization tool designed to help non-experts learn and examine Convolutional Neural Networks (CNNs) |
+| GAN Lab                                                    | https://poloclub.github.io/ganlab/                | Explore Generative Adversarial Networks directly in the browser with GAN Lab |
+| Distill: Exploring Neural Networks with Activation Atlases | https://distill.pub/2019/activation-atlas/        | Feature inversion to visualize millions of activations from an image classification network leads to an explorable activation atlas of features the network has learned |
+| Transformer Explainer                                      | https://poloclub.github.io/transformer-explainer/ | An Interactive Transformer Explainer based on GPT-2          |
+| Stable Diffusion Explainer                                 | https://poloclub.github.io/diffusion-explainer/   | Interactive Text to Image explainer of how Stable Diffusion works |
+
+----
 
 ## Other Resources 
 
